@@ -1,4 +1,4 @@
-baseURL = "https://Himag-consultings-site.netilfy.com"
+baseURL = "https://Himag-consultings-site.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
